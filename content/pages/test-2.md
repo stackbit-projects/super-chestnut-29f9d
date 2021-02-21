@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: this is a test page
 hide_title: true
 sections: []
 seo:
