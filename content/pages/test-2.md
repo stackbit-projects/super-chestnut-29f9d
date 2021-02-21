@@ -1,6 +1,6 @@
 ---
 title: this is a test page
-hide_title: false
+hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
