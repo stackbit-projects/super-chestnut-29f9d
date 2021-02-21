@@ -16,7 +16,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: bvuy this
         url: lorem-ipsum
         style: button
         icon: dribbble
