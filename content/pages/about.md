@@ -106,6 +106,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/team-3.png
   - type: cta_section
     section_id: cta
     title: Become a Team Player
